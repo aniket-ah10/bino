@@ -1,0 +1,17 @@
+#movie_heading{
+    background-color: black;
+    border: solid;
+    border-radius: 2rem;
+    border-width: 0;
+    margin-top: 0.25rem;
+    color: white;
+    overflow-x: hidden;
+    padding-top: 0.30rem;
+    padding-bottom: 0.30rem;
+   /* padding-right: 0.5rem;*/
+}
+.movie_a{
+    padding-left: 2rem;
+    font-size: large;
+    font-weight: 500;
+}

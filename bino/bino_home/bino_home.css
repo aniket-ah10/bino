@@ -1,0 +1,25 @@
+.web{
+    margin-top:1rem;
+    border: solid;
+    background-color: rgb(97, 82, 82);
+    border-radius: 1rem;
+    padding-top: 0.5rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    border-width: 0.0rem;
+}
+.h2_web{
+    color: rgb(255, 255, 255);
+    font-family: "Audiowide", sans-serif;
+    font-size: large;
+    font-weight: 500;
+}
+.photo_wall{
+    width: 24%;
+    height: 16rem;
+    border:solid;
+    border-radius: 1rem;
+    border-width: 0.0rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+}
