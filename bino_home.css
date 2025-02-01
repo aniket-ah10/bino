@@ -1,0 +1,45 @@
+.web{
+    margin-top:0.5rem;
+    border: solid transparent;
+    background-color: rgb(3, 36, 58);
+    border-radius: 1rem;
+    padding-top: 0.1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    border-width: 0.0rem;
+    padding-right: 1rem;
+}
+.h2_web{
+    color: rgb(255, 255, 255);
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:1.3rem;
+    letter-spacing: 0.1rem;
+    text-align: center;
+}
+.photo_wall{
+    width: 8.2rem;
+    height: 13rem;
+    border:solid transparent;
+    border-radius: 0.6rem;
+    border-width: 0.15rem;
+    padding-left: 0.24%;
+    padding-right: 0.24%;
+}
+img:hover{
+    border-radius: 1rem;
+    border-width:0.15rem;
+    border-color: rgb(255, 255, 255);
+}
+.web2{
+    margin-top:0.5rem;
+    border: solid transparent;
+    background-color: rgb(3, 36, 58);
+    border-radius: 1rem;
+    padding-top: 1rem;
+    padding-left: 0.9rem;
+    padding-bottom: 1rem;
+    border-width: 0.0rem;
+    padding-right: 0.9rem;
+}

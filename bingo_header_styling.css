@@ -1,0 +1,59 @@
+body{
+    background-color:rgb(228, 228, 228);
+}
+header{
+   background: fixed;
+   margin-top: -10px;
+   margin-left: -0.5rem;
+   margin-right:-0.5rem;
+   padding-bottom: 0.5rem;
+   display: flex;
+   background-color: rgb(252, 237, 237);
+   border-bottom: solid;
+   border-width: 0.05rem;
+}
+.title{
+    font-family: 'Brush Script MT' ;
+}
+.logo{
+    width :4rem;
+    padding-left: 8%;
+}
+header .logo{
+    flex :5%;
+}
+header h1{
+flex :95%;
+}
+@media(max-width:400px)
+{
+    .logo ,h1{
+        flex:100%;
+    }
+}
+#subheading{
+   background-color: rgb(250, 111, 111);
+   overflow-x: hidden;
+   width: 100%;
+   margin-left: -0.5rem;
+   padding: 0.5rem;
+   border-bottom: solid;
+   border-width: 0.05rem;
+}
+.head_a{
+    color:rgb(255, 255, 255);
+    padding-left: 2%;
+    padding-right: 2%;
+     font-family: "Acme", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    text-decoration:none;
+}
+a:hover{
+    color: tomato;
+}
+@media(max-width:600px){
+    a[title="about"] {      
+    display: none;
+    }
+}
